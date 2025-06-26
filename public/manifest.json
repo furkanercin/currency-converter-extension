@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Döviz Kuru Hesaplayıcı",
+  "version": "1.0",
+  "description": "Anlık döviz kuru çevirici",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
